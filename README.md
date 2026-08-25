@@ -18,8 +18,6 @@ I'm a Computer Science graduate from Bahir Dar University – Institute of Techn
 
 ---
 
-> *"
----
 
 ## 🛠️ Tech Stack
 
