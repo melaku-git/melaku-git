@@ -99,7 +99,7 @@ Built with a seamless UI/UX on Android Studio to reduce manual roll-call errors 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=melaku-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
