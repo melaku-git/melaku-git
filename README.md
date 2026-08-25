@@ -19,7 +19,7 @@ I'm a Computer Science graduate from Bahir Dar University – Institute of Techn
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -83,7 +83,7 @@ Built with a seamless UI/UX on Android Studio to reduce manual roll-call errors 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Biometrics](https://img.shields.io/badge/Biometrics-8B5CF6?style=for-the-badge&logo=fingerprintjs&logoColor=white)
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu-derso-85915a418">
@@ -112,5 +112,5 @@ Built with a seamless UI/UX on Android Studio to reduce manual roll-call errors 
 </p>
 
 <p align="center">
-  <i>"Code is poetry written in logic."</i>
+  
 </p>
