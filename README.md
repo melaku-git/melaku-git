@@ -71,20 +71,19 @@ I'm a Computer Science student passionate about building modern web apps, mobile
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/melkamu-derso-85915a418">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://t.me/@falconn19">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:melkamuderso147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://YOUR_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 ---
 [8/25/2026 1:11 PM] 𝙼𝚎𝚕𝚔𝚊𝚖𝚞: ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
