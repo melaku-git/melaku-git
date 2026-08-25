@@ -62,6 +62,7 @@ I'm a Computer Science graduate from Bahir Dar University – Institute of Techn
 ##  Projects
 
  INTERNSHIP PLACEMENT & MANAGEMENT SYSTEM
+ 
 Full-stack web platform that seamlessly manages and controls intern students, host institutions, and university coordination.  
 Ensures interns gain effective, professional, and structured work experience through real-time tracking and institutional oversight.  
 
@@ -74,7 +75,8 @@ Ensures interns gain effective, professional, and structured work experience thr
 
 ---
 
-SMART ATTENDANCE SYSTEM (MOBILE)
+SMART ATTENDANCE SYSTEM (MOBILE APPLICATION)
+
 Flutter-based mobile application for university lecturers to efficiently track, monitor, and control student attendance in real-time.  
 Built with a seamless UI/UX on Android Studio to reduce manual roll-call errors and improve lecture accountability.  
 
