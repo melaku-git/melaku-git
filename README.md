@@ -6,16 +6,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science student passionate about building modern web apps, mobile applications, and exploring networking technologies. I love solving real-world problems through clean, efficient code and continuously learning new technologies.
+I'm a Computer Science graduate from Bahir Dar University – Institute of Technology, passionate about building modern web apps, mobile applications, and exploring networking technologies. I love solving real-world problems through clean, efficient code and continuously expanding my skillset.
 
-- 🎓 Computer Science Student – passionate about software engineering
+- 🎓 B.Sc. in Computer Science – Bahir Dar University, Institute of Technology
 - 💻 Full-Stack Developer – React, Node.js, Laravel, PHP
-- 📱 Android Developer – building intuitive mobile experiences
-- 🌐 Junior Networking – understanding how the internet works
-- 🎯 Goal – become a world-class software engineer
+- 📱 Mobile App Developer – Flutter, React Native, Android Studio
+- 🌐 Junior Networking Enthusiast – understanding how the internet works
+- 🚀 Goal – become a world-class software engineer and tech innovator
 
+---
+
+> *"
 ---
 
 ## 🛠️ Tech Stack
