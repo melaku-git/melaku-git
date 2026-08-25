@@ -62,10 +62,8 @@ I'm a Computer Science student passionate about building modern web apps, mobile
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔥 [Project Name 1] | Brief description | React, Node.js, MongoDB |
-| 📱 [Project Name 2] | Brief description | Java, Android Studio |
-| 🚀 [Project Name 3] | Brief description | Laravel, PHP, MySQL |
-
+| [Internship Management System](https://github.com/melaku-git/your-repo-link) | A full-stack web platform that manages and controls intern students, host institutions, and the university together. It ensures interns gain effective, professional, and structured work experience during their internship period. | MongoDB, Node.js, React, TypeScript |
+| [Smart Attendance System](https://github.com/melaku-git/your-repo-link) | A Flutter-based mobile app built on Android Studio that allows university lecturers to efficiently track, monitor, and control student attendance in real-time with a seamless user experience. | Flutter, Dart, Android Studio |
 ---
 
 ## 📫 Connect With Me
