@@ -1,4 +1,4 @@
-[8/25/2026 1:11 PM] 𝙼𝚎𝚕𝚔𝚊𝚖𝚞: <h1 align="center"> Melkamu Derso </h1>
+<h1 align="center"> Melkamu Derso </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Android+App+Developer;Computer+Science+Student;Networking+Enthusiast" alt="Typing SVG" />
@@ -99,12 +99,6 @@ Built with a seamless UI/UX on Android Studio to reduce manual roll-call errors 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
----
-[8/25/2026 1:11 PM] 𝙼𝚎𝚕𝚔𝚊𝚖𝚞: ## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here if you write technical articles -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <p align="center">
