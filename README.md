@@ -111,5 +111,5 @@ I'm always open to discussing new opportunities, collaborations, or tech ideas. 
 ---
 
 <p align="center">
-  <i>“Code is poetry written in logic.”</i>
+
 </p>
