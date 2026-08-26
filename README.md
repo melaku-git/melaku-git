@@ -18,7 +18,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 ---
 
-## Technical Toolbox
+##  Technical Toolbox
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -40,31 +40,54 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 ---
 
-##  Projects
+## 📌 Projects
 
-### 🏛️ Internship Placement & Management System
+### Internship Placement & Management System
 
-**A full-stack web platform** that coordinates universities, host institutions, and intern students. It provides real-time tracking, progress monitoring, and administrative oversight to ensure a professional internship experience.
+A full-stack web platform that coordinates universities, host institutions, and intern students. It provides real-time tracking, progress monitoring, and administrative oversight to ensure a professional internship experience.
 
-**Key Highlights:**
+#### Frontend Architecture
+- React with TypeScript
+- Role-based dashboards (Admin, Coordinator, Student)
+- Real-time placement tracking
+- Responsive UI for all devices
 
-- **Architecture:** React Frontend · Node.js REST API · MongoDB · JWT Authentication
-- **Impact:** Centralized management for 100+ interns · Automated reporting · Reduced administrative workload by 40%
-- **Status:** Completed (Showcase Repository Available)
+#### Backend Systems
+- Node.js REST API with Express
+- JWT Authentication & Role-Based Access Control (RBAC)
+- MongoDB data persistence with Mongoose ODM
+- Secure password hashing (bcrypt)
 
+#### Key Achievements
+- Centralized management for 100+ interns
+- Automated progress reporting
+- Reduced administrative workload by 40%
+- Scalable system design ready for institutional deployment
 
 
 ---
 
-### 📱 Smart Attendance System (Mobile)
+### Smart Attendance System (Mobile)
 
-**A Flutter-based Android app** that allows university lecturers to track student attendance in real-time using biometrics and offline-first SQLite storage. It eliminates manual roll-calls and prevents attendance fraud.
+A Flutter-based Android app that allows university lecturers to track student attendance in real-time using biometrics and offline-first SQLite storage. It eliminates manual roll-calls and prevents attendance fraud.
 
-**Key Highlights:**
+#### Frontend / Mobile Features
+- Flutter UI with Material Design
+- Real-time attendance tracking
+- Biometric/Fingerprint authentication
+- Offline-first with local SQLite storage
 
-- **Architecture:** Flutter · Dart · SQLite · Biometric Authentication
-- **Impact:** Reduces roll-call time by 80% · Works offline · Prevents attendance fraud
-- **Status:** Completed
+#### Mobile Architecture
+- Clean MVVM architecture
+- Bloc/Cubit state management
+- Local data persistence (SQLite)
+- Seamless sync when connectivity is restored
+
+#### Key Achievements
+- Reduces roll-call time by 80%
+- Prevents attendance fraud with biometrics
+- Works completely offline and syncs later
+- Intuitive lecturer dashboard
 
 
 
@@ -111,5 +134,5 @@ I'm always open to discussing new opportunities, collaborations, or tech ideas. 
 ---
 
 <p align="center">
-
+ 
 </p>
