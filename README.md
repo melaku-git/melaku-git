@@ -52,7 +52,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 - **Impact:** Centralized management for 100+ interns · Automated reporting · Reduced administrative workload by 40%
 - **Status:** Completed (Showcase Repository Available)
 
-**Learn More:** [🔗 View Showcase Repository](https://github.com/melaku-git/your-showcase-repo)
+
 
 ---
 
@@ -66,7 +66,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 - **Impact:** Reduces roll-call time by 80% · Works offline · Prevents attendance fraud
 - **Status:** Completed
 
-**Learn More:** [🔗 View Repository](https://github.com/melaku-git/your-mobile-repo)
+
 
 ---
 
