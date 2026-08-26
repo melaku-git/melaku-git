@@ -18,7 +18,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 ---
 
-##  Technical Toolbox
+## Technical Toolbox
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -58,7 +58,7 @@ A full-stack web platform that coordinates universities, host institutions, and 
 - MongoDB data persistence with Mongoose ODM
 - Secure password hashing (bcrypt)
 
-  #### System Architecture
+#### System Architecture
 
 - React Frontend (SPA with TypeScript)
 - Node.js REST API (Express)
@@ -72,14 +72,13 @@ A full-stack web platform that coordinates universities, host institutions, and 
 - Scalable system design ready for institutional deployment
 
 
-
 ---
 
 ### Smart Attendance System (Mobile)
 
 A Flutter-based Android app that allows university lecturers to track student attendance in real-time using biometrics and offline-first SQLite storage. It eliminates manual roll-calls and prevents attendance fraud.
 
-#### Frontend / Mobile Features
+#### Mobile Features
 - Flutter UI with Material Design
 - Real-time attendance tracking
 - Biometric/Fingerprint authentication
@@ -103,8 +102,6 @@ A Flutter-based Android app that allows university lecturers to track student at
 - Prevents attendance fraud with biometrics
 - Works completely offline and syncs later
 - Intuitive lecturer dashboard
-
-
 
 
 ---
