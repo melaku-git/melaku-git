@@ -58,18 +58,19 @@ A full-stack web platform that coordinates universities, host institutions, and 
 - MongoDB data persistence with Mongoose ODM
 - Secure password hashing (bcrypt)
 
+  #### System Architecture
+
+- React Frontend (SPA with TypeScript)
+- Node.js REST API (Express)
+- MongoDB (Data Persistence)
+- JWT Authentication (Secure Access Control)
+
 #### Key Achievements
 - Centralized management for 100+ interns
 - Automated progress reporting
 - Reduced administrative workload by 40%
 - Scalable system design ready for institutional deployment
 
-#### System Architecture
-
-- **React Frontend** (SPA with TypeScript)
-- **Node.js REST API** (Express)
-- **MongoDB** (Data Persistence)
-- **JWT Authentication** (Secure Access Control)
 
 
 ---
@@ -90,18 +91,19 @@ A Flutter-based Android app that allows university lecturers to track student at
 - Local data persistence (SQLite)
 - Seamless sync when connectivity is restored
 
+#### System Architecture
+
+- Flutter Mobile Client (Cross-platform UI)
+- SQLite Database (Offline-first storage)
+- Biometric Authentication (Device-level security)
+- Sync Mechanism (When connectivity is restored)
+
 #### Key Achievements
 - Reduces roll-call time by 80%
 - Prevents attendance fraud with biometrics
 - Works completely offline and syncs later
 - Intuitive lecturer dashboard
 
-#### System Architecture
-
-- **Flutter Mobile Client** (Cross-platform UI)
-- **SQLite Database** (Offline-first storage)
-- **Biometric Authentication** (Device-level security)
-- **Sync Mechanism** (When connectivity is restored)
 
 
 
