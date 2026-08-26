@@ -1,12 +1,12 @@
-<h1 align="center">Melkamu Derso </h1>
+<h1 align="center"> Melkamu Derso </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Full-Stack+%26+Mobile+Developer;B.Sc.+in+Computer+Science;BDU+Institute+of+Technology+Graduate;Building+Scalable+%26+Impactful+Solutions" alt="Typing SVG" />
+  <strong>Full-Stack &amp; Mobile Developer | B.Sc. in Computer Science | BDU Institute of Technology Graduate</strong>
 </p>
 
 ---
 
-## About Me
+##  About Me
 
 I am a **Computer Science graduate** from **Bahir Dar University – Institute of Technology**, passionate about architecting end-to-end solutions. I bridge the gap between complex backends and intuitive user interfaces, with a strong focus on clean code and real-world impact.
 
@@ -18,7 +18,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 ---
 
-##  Technical Toolbox
+## Technical Toolbox
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -50,8 +50,9 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 - **Architecture:** React Frontend · Node.js REST API · MongoDB · JWT Authentication
 - **Impact:** Centralized management for 100+ interns · Automated reporting · Reduced administrative workload by 40%
+- **Status:** Completed (Showcase Repository Available)
 
-
+**Learn More:** [🔗 View Showcase Repository](https://github.com/melaku-git/your-showcase-repo)
 
 ---
 
@@ -65,7 +66,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 - **Impact:** Reduces roll-call time by 80% · Works offline · Prevents attendance fraud
 - **Status:** Completed
 
-
+**Learn More:** [🔗 View Repository](https://github.com/melaku-git/your-mobile-repo)
 
 ---
 
@@ -82,7 +83,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or tech ideas. Feel free to reach out!
 
