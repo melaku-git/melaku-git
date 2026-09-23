@@ -86,7 +86,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
         <br/><sub>Git</sub>
-      
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
         <br/><sub>VS Code</sub>
@@ -98,7 +98,6 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
     </tr>
   </table>
 </div>
-
 ---
 
 ##  Projects
