@@ -98,7 +98,7 @@ I am a **Computer Science graduate** from **Bahir Dar University – Institute o
     </tr>
   </table>
 </div>
----
+
 
 ##  Projects
 
