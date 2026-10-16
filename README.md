@@ -167,7 +167,25 @@ I'm always open to discussing new opportunities, collaborations, or tech ideas. 
   </a>
   <a href="mailto:melkamuderso147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
- 
+  </a>
+</p>
+
+---
+
+## 🌐 Live Portfolio
+
+<p align="center">
+  <a href="https://portfolio-kohl-five-94.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>An interactive, iPhone/Ubuntu-inspired portfolio OS built with Next.js, React, and Framer Motion.</strong>
+</p>
+
+<p align="center">
+  Features: Live Terminal · Browser Simulator · Widgets · Dark Mode · App Grid · Tech News Feed
 </p>
 
 ---
