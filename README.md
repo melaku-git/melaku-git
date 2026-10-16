@@ -167,10 +167,7 @@ I'm always open to discussing new opportunities, collaborations, or tech ideas. 
   </a>
   <a href="mailto:melkamuderso147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://melaku-git.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
