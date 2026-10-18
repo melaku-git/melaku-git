@@ -159,7 +159,7 @@ A Flutter-based Android app that allows university lecturers to track student at
 I'm always open to discussing new opportunities, collaborations, or tech ideas. Feel free to reach out!
 
 <p align="center">
-  <a href="https://portfolio-kohl-five-94.vercel.app/">
+  <a href="https://melkamu-derso.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/melkamu-derso-85915a418">
